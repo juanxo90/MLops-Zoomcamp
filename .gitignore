@@ -1,0 +1,10 @@
+.*
+.ipynb_checkpoints/
+
+*.db
+experiment_track/mlruns/
+experiment_track/models/
+experiment_track/data/
+experiment_track/preprocessor/
+
+!/.gitignore
